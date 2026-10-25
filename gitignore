@@ -1,0 +1,11 @@
+# Rahasia & data bot: JANGAN pernah di-commit
+.env
+data/
+*.session
+*.session-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
